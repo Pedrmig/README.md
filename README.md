@@ -4,7 +4,7 @@
 A versatile and driven Data Scientist with a multidisciplinary background in law, software development and Data Science. With a solid academic foundation and a large experience in client atención, data análisis and the commercial sector, I bring a unique blend of technical expertise and business acumen to the table.
 
 ### 💼 Professional Experience
-My professional journey includes transitioning from practicing law to managing a bank agency at one of the largest banks in Latin America. I have consistently demonstrated excellent adaptability, analytical vision, responsibility, and efficiency in tasks demanding precision and critical thinking.
+My professional journey includes transitioning from practicing law to managing a bank agency at one of the largest banks in Latin America. I have consistently demonstrated excellent adaptability, team work, analytical vision, responsibility, and efficiency in tasks demanding precision and critical thinking.
 
 ### 🛠️ Tech Toolbox 
 - **Languages:** Python, SQL, JavaScript
